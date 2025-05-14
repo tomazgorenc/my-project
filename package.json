@@ -12,6 +12,8 @@
     "@angular/platform-browser": "~19.2.0",
     "@angular/platform-browser-dynamic": "~19.2.0",
     "@angular/router": "~19.2.0",
+    "@tomazgorenc/custom-models": "^1.1.0",
+    "ng-mocks": "^14.13.4",
     "rxjs": "~7.8.0",
     "zone.js": "~0.15.0"
   },
